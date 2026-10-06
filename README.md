@@ -30,7 +30,7 @@ Auto Lab 360 is an enterprise vehicle care and automotive workshop management sy
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/auto-care.git
+git clone https://github.com/maqil9022/auto-care.git
 cd auto-care
 ```
 

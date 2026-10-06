@@ -88,15 +88,6 @@ export default function Reports() {
           <div className="page-subheading">Business performance overview · Auto Lab 360 · Kegalle</div>
         </div>
         <div className="page-actions">
-          <a
-            href="/quotation.html"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="btn btn-secondary"
-            style={{ display: 'inline-flex', alignItems: 'center', gap: 6, borderColor: '#0284c7', color: '#0284c7' }}
-          >
-            📄 Commercial Quotation
-          </a>
           <button className="btn btn-secondary">Export PDF</button>
           <button className="btn btn-secondary">Export Excel</button>
         </div>
